@@ -25,15 +25,24 @@ This project aims to build an interpretable and accurate machine learning pipeli
 💡 Key Techniques Used
 
 Permutation Feature Importance (PFI)
+
 SHAP (Shapley Additive Explanations)
+
 Random Forest Gini Importance
+
 FK-RFE (Kolmogorov Filter + RF-RFE)
+
 Conditional Permutation Feature Importance (cPFI)
+
 TabNet Deep Feature Learning
+
 ---
 ## 📈 Model Performance
-![Performance Plot](images/效能圖示.png)
----
+![Performance Plot](images-Performance/效能圖示.png)
+
+## AI explainability
+![Performance Plot](images-Performance/waterfull_plot.png)
+
 📚 References
 
 Fisher, A., Rudin, C., & Dominici, F. (2019). All models are wrong, but many are useful: Learning a variable's importance by studying an entire class of prediction models simultaneously. Journal of Machine Learning Research, 20(177), 1–81.
