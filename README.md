@@ -1,22 +1,22 @@
-# 🎯 Predicting Customer Churn with Feature Ensemble Selection
+# 🎯 Feature selection and AI explainability
 
-> A feature selection and interpretability-focused machine learning project for customer churn prediction.  
+> Used on the Kaggle website, public data sets: feature selection and interpretable machine learning projects for customer churn prediction and house price prediction.  
 > ✨ Integrated model insights from SHAP, PFI, RF importance, FK-RFE, and conditional PFI.
 
 ---
 
 ## 📌 Overview
 
-This project aims to build an explainable, accurate machine learning pipeline for predicting customer churn in the telecom industry. Instead of relying on a single feature selection method, we combine multiple approaches—ensuring robust and interpretable feature importance.
+This project aims to build an interpretable and accurate machine learning pipeline. We do not rely on a single feature selection method, but instead combine multiple methods to ensure robust and interpretable feature importance.
 
 ---
 
 ## 🧠 Core Concepts
 
-- 🔍 **Ensemble Feature Importance**: Combine SHAP, PFI, and RF's internal Gini-based feature importance to avoid single-model bias.
-- 🌀 **FK-RFE**: A hybrid feature selection pipeline combining Kolmogorov filter and recursive elimination via Random Forest.
-- 🌿 **Conditional PFI**: Improve traditional PFI by conditioning on local subgroups derived from decision tree paths (implemented with RF).
-- ⚙️ **Model Benchmarking**: Random Forest, XGBoost, LightGBM, TabNet – compared for performance and interpretability.
+- 🔍**Integrated Feature Importance**: Combines SHAP, PFI, and RF's internal Gini-based feature importance to avoid single model bias.
+- 🌀 **FK-RFE**: A hybrid feature selection pipeline combining Kolmogorov filter and recursive elimination via random forest.
+- 🌿 **Conditional PFI**: Improves traditional PFI (implemented in RF) by conditioning on local subgroups derived from decision tree paths.
+- ⚙️ **Model Benchmarking**: Random Forest (ML), TabNet (DL) — comparing performance and interpretability.
 
 ---
 
