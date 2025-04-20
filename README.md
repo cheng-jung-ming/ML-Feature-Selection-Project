@@ -62,4 +62,4 @@ Special thanks to National Chung Hsing University and the professors who guided 
 ## 📮 Contact
 
 📧 [ccit0915@gmail.com]
-🏫 Department of Information Management, National Chung Hsing University
+🏫 Department of Applied Mathematics, National Chung Hsing University
