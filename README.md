@@ -20,21 +20,14 @@ This project aims to build an interpretable and accurate machine learning pipeli
 
 ---
 
-## 🏗️ Project Structure
+## 💡 Key Techniques Used
 
-💡 Key Techniques Used
-
-Permutation Feature Importance (PFI)
-
-SHAP (Shapley Additive Explanations)
-
-Random Forest Gini Importance
-
-FK-RFE (Kolmogorov Filter + RF-RFE)
-
-Conditional Permutation Feature Importance (cPFI)
-
-TabNet Deep Feature Learning
+- 📌 Permutation Feature Importance (PFI)  
+- 📌 SHAP (Shapley Additive Explanations)  
+- 📌 Random Forest Gini Importance  
+- 📌 FK-RFE (Kolmogorov Filter + RF-RFE)  
+- 📌 Conditional Permutation Feature Importance (cPFI)  
+- 📌 TabNet Deep Feature Learning
 
 ---
 ## 📈 Model Performance
