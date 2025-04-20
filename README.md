@@ -40,10 +40,10 @@ TabNet Deep Feature Learning
 ## 📈 Model Performance
 ![Performance Plot](images-Performance/效能圖示.png)
 
-## AI explainability
+## 🤖🔎 AI Explainability
 ![Performance Plot](images-Performance/waterfull_plot.png)
 
-📚 References
+## 📚 References
 
 Fisher, A., Rudin, C., & Dominici, F. (2019). All models are wrong, but many are useful: Learning a variable's importance by studying an entire class of prediction models simultaneously. Journal of Machine Learning Research, 20(177), 1–81.
 
@@ -55,11 +55,11 @@ Zhang, Y., Zhu, Z., Liu, X., & Yang, W. (2023). A Model‐Free Feature Selection
 
 Pfisterer, F., & Biecek, P. (2024). Model-agnostic feature importance and effects with dependent features: A conditional subgroup approach. Journal of Machine Learning Research, 25(25), 1–45.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 Special thanks to National Chung Hsing University and the professors who guided this project.
 
-📮 Contact
+## 📮 Contact
 
 📧 [ccit0915@gmail.com]
 🏫 Department of Information Management, National Chung Hsing University
