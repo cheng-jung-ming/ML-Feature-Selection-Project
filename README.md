@@ -30,13 +30,20 @@ Random Forest Gini Importance
 FK-RFE (Kolmogorov Filter + RF-RFE)
 Conditional Permutation Feature Importance (cPFI)
 TabNet Deep Feature Learning
-
+---
+## 📈 Model Performance
+![Performance Plot](images/效能圖示.png)
+---
 📚 References
 
 Fisher, A., Rudin, C., & Dominici, F. (2019). All models are wrong, but many are useful: Learning a variable's importance by studying an entire class of prediction models simultaneously. Journal of Machine Learning Research, 20(177), 1–81.
+
 Lundberg, S. M., & Lee, S.-I. (2017). A unified approach to interpreting model predictions. Advances in Neural Information Processing Systems, 30.
+
 Arik, S. Ö., & Pfister, T. (2021). TabNet: Attentive interpretable tabular learning. Proceedings of the AAAI Conference on Artificial Intelligence, 35(8), 6679–6687.
+
 Zhang, Y., Zhu, Z., Liu, X., & Yang, W. (2023). A Model‐Free Feature Selection Technique of Feature Screening and Random Forest‐Based Recursive Feature Elimination. Expert Systems, 40(2), e13034.
+
 Pfisterer, F., & Biecek, P. (2024). Model-agnostic feature importance and effects with dependent features: A conditional subgroup approach. Journal of Machine Learning Research, 25(25), 1–45.
 
 🙌 Acknowledgements
