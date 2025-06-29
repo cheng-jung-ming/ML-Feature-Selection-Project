@@ -48,6 +48,11 @@ Zhang, Y., Zhu, Z., Liu, X., & Yang, W. (2023). A Model‐Free Feature Selection
 
 Pfisterer, F., & Biecek, P. (2024). Model-agnostic feature importance and effects with dependent features: A conditional subgroup approach. Journal of Machine Learning Research, 25(25), 1–45.
 
+## 🎓 Course Recognition
+
+This project was completed as a final report for the **Machine Learning course** at National Chung Hsing University.  
+It earned a **final grade of 93/100**, ranking **1st in the class**, demonstrating both academic excellence and practical implementation of interpretable AI techniques.
+
 ## 🙌 Acknowledgements
 
 Special thanks to National Chung Hsing University and the professors who guided this project.
